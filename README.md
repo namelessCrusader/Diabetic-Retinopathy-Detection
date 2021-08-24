@@ -3,7 +3,7 @@
 Dataset used in training:
 https://www.kaggle.com/c/aptos2019-blindness-detection/data
 
-##How to run
+## How to run
 1. Open in Google Collabatory 
 2. Upload dataset to drive and set appropriate path to path variable
 3. Upload EraseReLU modified models to drive

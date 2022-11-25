@@ -1,5 +1,9 @@
 # Diabetic-Retinopathy-Detection
 
+## Models used to test novel activation architecture:
+1. Resnet-50
+2. Inception-v3
+
 Dataset used in training:
 https://www.kaggle.com/c/aptos2019-blindness-detection/data
 
